@@ -1,5 +1,5 @@
 # Hax.or.id-Grabber
-![alt text](https://imgur.com/gUyFUfH)
+![alt text](https://imgur.com/gUyFUfH.png)
 
 ! This script is a web grabber that fetches URLs from the Hax.or.id website and extracts domain names from them.
 
